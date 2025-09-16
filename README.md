@@ -1,2 +1,2 @@
 # AgenticAI-LangGraph
-agentic AI with LangGraph
+For more details please visit CampusX playlist "Agentic AI using LangGraph"
